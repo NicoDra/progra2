@@ -1,0 +1,54 @@
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Nahuel\Desktop\2017\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaLogica.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

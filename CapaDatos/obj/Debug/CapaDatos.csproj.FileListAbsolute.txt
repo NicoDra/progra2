@@ -1,0 +1,24 @@
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.pdb
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Nico\Desktop\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll.config
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\bin\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaDatos\obj\Debug\CapaDatos.pdb

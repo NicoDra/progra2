@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CapaLogica.Cama">
+    <Position X="5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABAAAgAAAAIIEAAAAgABEAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Cama.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.Diagnostico">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAAAAAAAQAAAAMCAAAAAAAA=</HashCode>
+      <FileName>Diagnostico.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListaMedicamento" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapaLogica.Droga">
+    <Position X="23.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAECBAAAggAAAAAAAAAAAAAAAAAEoAAQ=</HashCode>
+      <FileName>Droga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.Especialidad">
+    <Position X="11" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgAAAAAIAACEAAIAkAAACAIAAIBAIAAAAAIBQAE=</HashCode>
+      <FileName>Especialidad.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListaHabitaciones" />
+      <Field Name="ListaMedicos" />
+      <Field Name="ListaPacientes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapaLogica.Habitacion">
+    <Position X="8" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEABkAGAAAAAiAAAAgAAACAAAAAkAAAAAAAAIARAAE=</HashCode>
+      <FileName>Habitacion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="LCama" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapaLogica.Medicamento">
+    <Position X="20.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAkAAEAAABKACmEAEggAAAEAAgAAAAAAAQAAAgAAA=</HashCode>
+      <FileName>Medicamento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="Drogas" />
+      <Field Name="ListaPorcentajes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapaLogica.Medico">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAGAAAAAAAAAGAAIEAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Medico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.Paciente">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwBAAQAgSCAAABEgBAggAEACAAgAFFAAAAQACCAAAE=</HashCode>
+      <FileName>Paciente.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="ListaDiagnosticos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CapaLogica.Persona">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAACAAAAAgAAAAAEAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CapaLogica.Porcentaje">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAQAAAAEAA=</HashCode>
+      <FileName>Porcentaje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

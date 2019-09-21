@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database1" Class="ContextoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Database1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Medicos" Member="ENTIDADMADICO">
+    <Type Name="ENTIDADMADICO">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DNI" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Especialidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Especialidades" Member="ENTIDADESPECIALIDAD">
+    <Type Name="ENTIDADESPECIALIDAD">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Especialidad-Medico]" Member="ENTIDADESPECIALIDADMEDICO">
+    <Type Name="ENTIDADESPECIALIDADMEDICO">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Especialidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DNI_Medico" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Especialidad-Paciente]" Member="ENTIDADESPECIALIDADPACIENTE">
+    <Type Name="ENTIDADESPECIALIDADPACIENTE">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre_Especialidad" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DNI_Paciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Paciente-Medico]" Member="ENTIDADPACIENTEMEDICO">
+    <Type Name="ENTIDADPACIENTEMEDICO">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DniPaciente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DniMedico" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Pacientes" Member="ENTIDADPACIENTE">
+    <Type Name="ENTIDADPACIENTE">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DNI" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="FechaNac" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+      <Column Name="Sexo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ninternacion" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

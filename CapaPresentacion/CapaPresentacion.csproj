@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7791ED50-CCDD-4C40-B8B1-FA7744426353}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Agregar_Diagnostico.aspx" />
+    <Content Include="Agregar_Tratamiento.aspx" />
+    <Content Include="Alta_Diagnosticos.aspx" />
+    <Content Include="Alta_Habitaciones.aspx" />
+    <Content Include="Alta_Medicamentos.aspx" />
+    <Content Include="Alta_Medicos.aspx" />
+    <Content Include="Alta_Pacientes.aspx" />
+    <Content Include="Borrar_Especialidad.aspx" />
+    <Content Include="General_Habitaciones.aspx" />
+    <Content Include="General_Medicamentos.aspx" />
+    <Content Include="General_Medicos.aspx" />
+    <Content Include="General_Pacientes.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Imagenes\Actualizar.png" />
+    <Content Include="Imagenes\Buscar.png" />
+    <Content Include="Imagenes\Clinica.png" />
+    <Content Include="Imagenes\Crear.png" />
+    <Content Include="Imagenes\Diagnostico.png" />
+    <Content Include="Imagenes\Especialidades.png" />
+    <Content Include="Imagenes\fondon.png" />
+    <Content Include="Imagenes\Gestion.png" />
+    <Content Include="Imagenes\Habitaciones.png" />
+    <Content Include="Imagenes\mas.png" />
+    <Content Include="Imagenes\Medicamentos.png" />
+    <Content Include="Imagenes\Medicos.png" />
+    <Content Include="Imagenes\Menu Principal.png" />
+    <None Include="jquery\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Imagenes\Pacientes.png" />
+    <Content Include="jquery\jquery-1.4.1.js" />
+    <Content Include="jquery\jquery-1.4.1.min.js" />
+    <Content Include="Mostrar_Especialidad.aspx" />
+    <Content Include="GeneralEspecialidad.aspx" />
+    <Content Include="Imagenes\BtEspecialidad.png" />
+    <Content Include="Imagenes\Bthabitaciones.png" />
+    <Content Include="Imagenes\BtMedicamentos.png" />
+    <Content Include="Imagenes\BtMedicos.png" />
+    <Content Include="Imagenes\BtPacientes.png" />
+    <Content Include="Imagenes\Fondo.png" />
+    <Content Include="MenuPrincipal.aspx" />
+    <Content Include="Mostrar_Medicos.aspx" />
+    <Content Include="Mostrar_Paciente.aspx" />
+    <Content Include="Muestra_Habitacion.aspx" />
+    <Content Include="Paciente_Critico.aspx" />
+    <Content Include="Paciente_Internar.aspx" />
+    <Content Include="Style.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregar_Diagnostico.aspx.cs">
+      <DependentUpon>Agregar_Diagnostico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Agregar_Diagnostico.aspx.designer.cs">
+      <DependentUpon>Agregar_Diagnostico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar_Tratamiento.aspx.cs">
+      <DependentUpon>Agregar_Tratamiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Agregar_Tratamiento.aspx.designer.cs">
+      <DependentUpon>Agregar_Tratamiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Diagnosticos.aspx.cs">
+      <DependentUpon>Alta_Diagnosticos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alta_Diagnosticos.aspx.designer.cs">
+      <DependentUpon>Alta_Diagnosticos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Habitaciones.aspx.cs">
+      <DependentUpon>Alta_Habitaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alta_Habitaciones.aspx.designer.cs">
+      <DependentUpon>Alta_Habitaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Medicamentos.aspx.cs">
+      <DependentUpon>Alta_Medicamentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alta_Medicamentos.aspx.designer.cs">
+      <DependentUpon>Alta_Medicamentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Medicos.aspx.cs">
+      <DependentUpon>Alta_Medicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alta_Medicos.aspx.designer.cs">
+      <DependentUpon>Alta_Medicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Alta_Pacientes.aspx.cs">
+      <DependentUpon>Alta_Pacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Alta_Pacientes.aspx.designer.cs">
+      <DependentUpon>Alta_Pacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Borrar_Especialidad.aspx.cs">
+      <DependentUpon>Borrar_Especialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Borrar_Especialidad.aspx.designer.cs">
+      <DependentUpon>Borrar_Especialidad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="General_Habitaciones.aspx.cs">
+      <DependentUpon>General_Habitaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General_Habitaciones.aspx.designer.cs">
+      <DependentUpon>General_Habitaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="General_Medicamentos.aspx.cs">
+      <DependentUpon>General_Medicamentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General_Medicamentos.aspx.designer.cs">
+      <DependentUpon>General_Medicamentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="General_Medicos.aspx.cs">
+      <DependentUpon>General_Medicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General_Medicos.aspx.designer.cs">
+      <DependentUpon>General_Medicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="General_Pacientes.aspx.cs">
+      <DependentUpon>General_Pacientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General_Pacientes.aspx.designer.cs">
+      <DependentUpon>General_Pacientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Especialidad.aspx.cs">
+      <DependentUpon>Mostrar_Especialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Especialidad.aspx.designer.cs">
+      <DependentUpon>Mostrar_Especialidad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralEspecialidad.aspx.cs">
+      <DependentUpon>GeneralEspecialidad.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeneralEspecialidad.aspx.designer.cs">
+      <DependentUpon>GeneralEspecialidad.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.aspx.cs">
+      <DependentUpon>MenuPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.aspx.designer.cs">
+      <DependentUpon>MenuPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Medicos.aspx.cs">
+      <DependentUpon>Mostrar_Medicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Medicos.aspx.designer.cs">
+      <DependentUpon>Mostrar_Medicos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_Paciente.aspx.cs">
+      <DependentUpon>Mostrar_Paciente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mostrar_Paciente.aspx.designer.cs">
+      <DependentUpon>Mostrar_Paciente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Muestra_Habitacion.aspx.cs">
+      <DependentUpon>Muestra_Habitacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Muestra_Habitacion.aspx.designer.cs">
+      <DependentUpon>Muestra_Habitacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente_Critico.aspx.cs">
+      <DependentUpon>Paciente_Critico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente_Critico.aspx.designer.cs">
+      <DependentUpon>Paciente_Critico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Paciente_Internar.aspx.cs">
+      <DependentUpon>Paciente_Internar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Paciente_Internar.aspx.designer.cs">
+      <DependentUpon>Paciente_Internar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{f01b88d1-fd5b-4ea1-bd41-56467c64941a}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Estilos\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>16165</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:16165/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

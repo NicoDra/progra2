@@ -1,0 +1,31 @@
+c:\users\nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.dll
+c:\users\nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.pdb
+c:\users\nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+c:\users\nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.dll
+c:\users\nico\documents\visual studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\Desktop\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Nico\Desktop\Cosa_Final\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Nahuel\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Nico\Documents\Visual Studio 2013\Projects\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.csprojResolveAssemblyReference.cache
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\niko_\Documents\facultad\Programacion 2\TrabajoFinalDrazerArroyo\CapaLogica\obj\Debug\CapaLogica.pdb
